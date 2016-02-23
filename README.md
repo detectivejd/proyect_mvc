@@ -10,7 +10,7 @@ el mantenimiento, dejo un link para ilustrar mejor lo que quiero decir
 https://es.wikipedia.org/wiki/Modelo%E2%80%93vista%E2%80%93controlador
 
 La estructuración de carpetas de este repositorio está basado en CakePhp Framework, ya que hacer
-cómo suelto puede ser un poco confuso...
+una aplicación web suelta puede ser un poco confuso...
 
 MVC lo conocí en el 2012, cuando estaba haciendo Analista Programador en la asignatura
 Programación Web y A/P Federico Antón fue mi profesor y me mostró sobre está arquitectura,
@@ -26,7 +26,9 @@ aprendí muchas cosas nuevas, no mentiré de que tuve ayuda con respecto a algun
 que eran nuevas para mí.
 
 También diré que en el repositorio que tengo sobre MVC hay un ejemplo de cómo usar MVC
-con la estructuración hecha.
+con la estructuración hecha, aquí está el link:
+
+https://github.com/detectivejd/amnesia_php_mvc
 
 Agradeciendo por tu visita a este repositorio, te Saludo y espero que te sirva.
 
