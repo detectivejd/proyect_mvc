@@ -38,5 +38,7 @@ Agradeciendo por tu visita a este repositorio, te Saludo y espero que te sirva.
 Colaboraciones:
 
 Jorge Fernando Zabala Rueda (PHP en Español) --> Upload y manejo de archivos con base de datos
+
 Eli Alejandro Moreno López (PHP en Español) --> Manejo de Namespaces y FPDF
+
 x_atrix (Foros del Web - PHP) --> Seguridad en CRUD con base de datos
