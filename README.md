@@ -16,8 +16,8 @@ Por si te interesa conocer este framework, pongo este link:
 http://cakephp.org/
 
 MVC lo conocí en el 2012, cuando estaba haciendo Analista Programador en la asignatura
-Programación Web y A/P Federico Antón fue mi profesor y me mostró sobre está arquitectura,
-desde ahí me dí cuente que MVC era mi mejor opción para la programación, y en el 2013 en 
+Programación Web y el A/P Federico Antón fue mi profesor y me mostró sobre está arquitectura,
+desde ahí me dí cuenta que MVC era mi mejor opción para la programación, y en el 2013 en 
 Ingenieria del Software, lo vi en RAD (Desarrollo Rápido de Aplicaciones) con
 A/P Pablo Williams como profesor....
 
